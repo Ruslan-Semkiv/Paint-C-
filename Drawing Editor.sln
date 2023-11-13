@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drawing Editor", "Drawing Editor\Drawing Editor.csproj", "{45705060-ACB9-46FF-A6E3-269530B65118}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45705060-ACB9-46FF-A6E3-269530B65118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45705060-ACB9-46FF-A6E3-269530B65118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45705060-ACB9-46FF-A6E3-269530B65118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45705060-ACB9-46FF-A6E3-269530B65118}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
